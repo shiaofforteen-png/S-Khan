@@ -1,0 +1,6 @@
+{
+  "name": "Dentesthetics | Dental Clinic in Islamabad",
+  "description": "Premium, patient-focused dental clinic in G-10/4, Islamabad. Expert cosmetic dentistry, orthodontics, teeth whitening, and preventive care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

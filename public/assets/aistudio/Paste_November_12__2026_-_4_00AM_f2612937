@@ -1,0 +1,1050 @@
+# MASTER WEBSITE GENERATION PROMPT — DENTESTHETICS
+## Premium, Modern, Fully Responsive Dental Clinic Website
+
+Act as a world-class UI/UX designer, senior frontend developer, branding specialist, conversion-rate optimization expert, and creative director.
+
+Your task is to design and develop a complete, production-quality, premium dental clinic website for **Dentesthetics**, based in Islamabad, Pakistan.
+
+Use the uploaded reference image as the primary visual design inspiration. Carefully study its visual language, composition, proportions, color palette, typography, spacing, imagery, section transitions, cards, buttons, and overall premium aesthetic.
+
+Create an original website that captures the same level of design sophistication without copying its brand, logo, text, exact layouts, or business identity.
+
+The final result must look like a professionally designed website commissioned by a premium dental clinic, not a generic AI-generated template.
+
+# 1. BUSINESS INFORMATION
+
+**Business Name:** Dentesthetics  
+**Business Category:** Dental Clinic / Dentistry / Cosmetic Dentistry  
+**Location:** House 1206, Street 40, G-10/4, G-10, Islamabad, Pakistan.
+
+**Primary Website Goal:** Generate qualified appointment bookings.
+
+**Target Audience:**
+- Individuals and families living in Islamabad.
+- Working professionals.
+- People looking for routine dental checkups.
+- Patients interested in cosmetic dentistry.
+- People considering teeth whitening and smile improvement.
+- Patients looking for orthodontic treatments.
+- Individuals seeking restorative and preventive dental care.
+
+**Business Positioning:**
+
+Dentesthetics should feel modern, welcoming, professional, trustworthy, hygienic, sophisticated, and patient-focused.
+
+The website should communicate that dental care can be comfortable, accessible, and confidence-building.
+
+# 2. OVERALL DESIGN DIRECTION
+
+Create a premium dental clinic website inspired by contemporary Swiss-style editorial web design, modern healthcare branding, and sophisticated agency-designed landing pages.
+
+The visual direction should include:
+
+- Elegant minimalist layouts.
+- Large, confident typography.
+- Generous whitespace.
+- Beautifully balanced two-column sections.
+- Deep purple branding.
+- Soft lavender backgrounds.
+- Vibrant mint-green accents.
+- Rounded image containers.
+- Asymmetric image compositions.
+- Modern floating information cards.
+- Carefully structured service cards.
+- Professional dental photography.
+- Subtle gradients and shadows.
+- Smooth scrolling and refined transitions.
+
+The website should feel visually rich without becoming overcrowded.
+
+Avoid:
+- Generic Bootstrap-looking layouts.
+- Excessive gradients.
+- Overused glassmorphism.
+- Cartoon dental illustrations.
+- Oversized unnecessary icons.
+- Excessive animation.
+- Stock-template appearance.
+- Randomly positioned elements.
+- Inconsistent spacing and typography.
+
+Prioritize design quality, readability, trust, and conversion.
+
+# 3. COLOR PALETTE
+
+Build the complete visual identity around the following colors.
+
+Primary Purple:
+#38218C
+
+Deep Purple:
+#29166F
+
+Secondary Purple:
+#4A3099
+
+Mint Green:
+#69E9B6
+
+Bright Mint:
+#74F0BD
+
+Light Lavender:
+#F0F0FC
+
+Soft Background:
+#FAF9FF
+
+White:
+#FFFFFF
+
+Primary Text:
+#24185F
+
+Secondary Text:
+#77758D
+
+Border:
+#E7E4F4
+
+Use purple as the primary brand color and mint green for important conversion elements, highlighted words, icons, and visual accents.
+
+Use light lavender and near-white backgrounds to create breathing room.
+
+The purple and mint combination should remain recognizable throughout the website.
+
+# 4. TYPOGRAPHY SYSTEM
+
+Use premium, modern sans-serif typography.
+
+Recommended font pairing:
+- Headings: Manrope or Plus Jakarta Sans.
+- Body: Inter.
+- Buttons and navigation: Inter or Manrope.
+
+Typography hierarchy:
+
+**Hero Heading:**
+- Large, bold typography.
+- Desktop size approximately 54–68px.
+- Line height around 1.05–1.15.
+- Deep purple.
+- Selectively highlight important words in mint green.
+
+**Section Headings:**
+- 38–48px desktop.
+- Bold or semibold.
+- Compact line height.
+
+**Card Headings:**
+- 21–25px.
+- Semibold.
+
+**Body Text:**
+- 15–17px.
+- Comfortable line height.
+- Soft dark-gray or muted purple.
+
+**Navigation:**
+- 13–15px.
+- Medium weight.
+
+Use responsive typography with clamp() wherever appropriate.
+
+Avoid unnecessarily small text and ensure excellent readability.
+
+# 5. HEADER AND NAVIGATION
+
+Create a clean, elegant navigation bar.
+
+Desktop layout:
+
+Left:
+- Original Dentesthetics wordmark.
+- Create a sophisticated typography-based logo.
+- Add a subtle abstract smile or dental-inspired icon if appropriate.
+- Do not use copied logos.
+
+Center:
+- Home
+- About
+- Services
+- Our Doctors
+- Why Choose Us
+- Contact
+
+Right:
+- Circular phone icon button.
+- Prominent mint-green "Book Appointment" button.
+- Small arrow icon.
+
+Header appearance:
+- Light lavender or off-white background.
+- Approximately 76–90px height.
+- Generous horizontal padding.
+- Clean alignment.
+- Subtle bottom border or extremely soft shadow.
+- Sticky navigation on scroll.
+
+Navigation interactions:
+- Smooth-scroll to relevant sections.
+- Dropdown menu for Services.
+- Active navigation indication.
+- Elegant hover transitions.
+- Mobile hamburger navigation with a clean animated drawer.
+
+The booking button must remain highly visible.
+
+# 6. HERO SECTION
+
+This is the most important section of the entire website.
+
+Recreate the visual impact of the reference image while producing an original Dentesthetics composition.
+
+Use a two-column layout.
+
+**Left Column — Approximately 45% width**
+
+Add a small introductory eyebrow:
+
+"YOUR SMILE DESERVES THE BEST"
+
+Main heading:
+
+"Your Smile, Our Priority — Premium Dental Care in Islamabad"
+
+Highlight "Smile" or "Islamabad" using mint green.
+
+Supporting paragraph:
+
+"Experience modern, patient-focused dental care at Dentesthetics. From preventive checkups to smile-enhancing treatments, we're here to help you feel confident about your oral health."
+
+Add two CTAs:
+
+Primary:
+"Book Your Appointment"
+
+Secondary:
+"Explore Our Services"
+
+The primary button should have a mint-green background, dark-purple text, rounded corners, and a diagonal arrow icon.
+
+Secondary button should have a transparent background, purple border, and purple text.
+
+Below the buttons, add three trust-focused bullet points with mint-green check icons:
+
+- Personalized Dental Care
+- Modern Treatment Approach
+- Comfortable Patient Experience
+
+**Right Column — Approximately 55% width**
+
+Display a large, premium dental photograph.
+
+Image concept:
+A beautiful, realistic, high-resolution photograph of a smiling adult patient receiving professional dental treatment from a dentist wearing clean clinical gloves in a modern dental clinic.
+
+Image requirements:
+- Natural lighting.
+- Premium healthcare photography.
+- Professional and hygienic environment.
+- Realistic skin texture.
+- Modern dental equipment.
+- Attractive composition.
+- Soft neutral background.
+- Horizontal 4:3 or 5:4 image ratio.
+
+Image styling:
+- Rounded corners, approximately 24–30px.
+- Large visual presence.
+- Subtle depth and shadow.
+
+Add a small circular mint-green floating badge overlapping the upper-left portion of the image:
+
+"CARE THAT MAKES YOU SMILE"
+
+Add a floating white information card overlapping the bottom of the image.
+
+Inside:
+- Small patient/profile avatar images if genuinely available through image generation.
+- Star-inspired decorative graphic, without claiming an actual review rating.
+- Text: "Your Smile Journey Starts Here"
+- Small diagonal arrow icon.
+
+The hero should immediately communicate professionalism, trust, and premium dental care.
+
+# 7. TRUST AND ABOUT SECTION
+
+Create a full-width deep-purple section.
+
+Use a two-column layout.
+
+**Left Column**
+
+Display a large, rounded portrait image of a friendly female or male dental professional in a modern clinical environment.
+
+Generate a realistic image automatically.
+
+Overlay a purple information card at the bottom of the image.
+
+Card content:
+
+"Dentesthetics"
+
+"Professional Dental Care"
+
+Include a mint arrow icon.
+
+Below the image, add a short paragraph:
+
+"We believe every smile deserves thoughtful care. Our approach focuses on patient comfort, clear communication, and helping people make confident decisions about their dental health."
+
+Add a mint-green button:
+
+"Discover Our Clinic"
+
+**Right Column**
+
+Heading:
+
+"Dedicated to Your Dental Health"
+
+Highlight "Dental Health" with mint green.
+
+Paragraph:
+
+"At Dentesthetics, we bring together a patient-first approach and modern dental care to create a welcoming experience. Whether you're visiting for a regular checkup or exploring ways to improve your smile, your comfort and oral health remain our priority."
+
+Add a second paragraph about personalized treatment, patient education, hygiene, and comfortable care.
+
+Under the text, create an asymmetric visual composition:
+
+- One large mint-green statistic-style card.
+- Two smaller stacked dental photography cards.
+
+Mint card content:
+
+"Your Smile Matters"
+
+"Thoughtful care, personalized attention, and a commitment to helping every patient feel comfortable."
+
+Do not invent clinic statistics, years of operation, specialist counts, awards, or patient numbers.
+
+The design should closely follow the reference's premium editorial aesthetic.
+
+# 8. DENTAL SERVICES SECTION
+
+Background: Light lavender (#FAF9FF).
+
+Centered heading:
+
+"Complete Dental Care for Your Beautiful Smile"
+
+Highlight "Beautiful Smile" using mint green.
+
+Supporting paragraph:
+
+"Explore our dental services, designed around your comfort, oral health, and confidence."
+
+Create a beautiful service-card grid.
+
+Desktop:
+Four cards per row where space permits.
+
+Tablet:
+Two cards per row.
+
+Mobile:
+One card per row.
+
+Each service card must include:
+- Custom dental-inspired line icon.
+- Service title.
+- Short description.
+- Small arrow or "Learn More" link.
+- Subtle border.
+- Soft lavender card background.
+- Rounded corners around 18–22px.
+- Smooth hover transition.
+
+Include these services:
+
+1. General Dentistry
+
+"Routine dental examinations, preventive care, and personalized oral health guidance."
+
+2. Cosmetic Dentistry
+
+"Smile-enhancing treatments designed to help improve the appearance of your teeth."
+
+3. Teeth Whitening
+
+"Professional whitening options for a brighter-looking smile."
+
+4. Orthodontics
+
+"Treatment options designed to help improve tooth alignment and your smile."
+
+5. Dental Implants
+
+"Restorative solutions for replacing missing teeth."
+
+6. Root Canal Treatment
+
+"Treatment focused on addressing infection and preserving natural teeth."
+
+7. Dental Crowns and Bridges
+
+"Restorative options designed to protect and replace damaged or missing teeth."
+
+8. Preventive Dental Care
+
+"Proactive dental care and guidance to help maintain long-term oral health."
+
+Each service card should look polished and consistent.
+
+Use a restrained icon style with purple strokes and mint-green accents.
+
+# 9. WHY CHOOSE DENTESTHETICS
+
+Create a visually engaging section with a white background.
+
+Heading:
+
+"Why Choose Dentesthetics?"
+
+Supporting text:
+
+"Your dental experience should feel comfortable, clear, and personalized."
+
+Create a two-column layout.
+
+Left:
+- Large professional dental clinic photograph.
+- Rounded corners.
+- Soft shadow.
+- Small floating mint information badge.
+
+Right:
+Create four benefits with individual icon containers.
+
+Benefits:
+
+**Patient-Focused Approach**
+"Care and communication centered around your individual needs."
+
+**Modern Dental Environment**
+"A welcoming setting designed to support a comfortable dental experience."
+
+**Personalized Treatment Guidance**
+"Clear explanations to help you understand your dental care options."
+
+**Commitment to Hygiene**
+"Attention to cleanliness and professional clinical practices."
+
+Use alternating icon backgrounds in lavender and mint.
+
+# 10. OUR DENTAL CARE PROCESS
+
+Create a modern process section with a light lavender background.
+
+Heading:
+
+"Your Journey to a Healthier Smile"
+
+Use four numbered steps in a horizontal desktop layout and vertical mobile layout.
+
+Step 01 — Book Your Visit
+
+"Choose a convenient time and request your appointment."
+
+Step 02 — Initial Consultation
+
+"Discuss your concerns and dental care needs."
+
+Step 03 — Personalized Care Plan
+
+"Understand the available treatment options and next steps."
+
+Step 04 — Continue Your Smile Journey
+
+"Receive guidance for maintaining your oral health."
+
+Use large, elegant numbered elements in purple and mint.
+
+Add connecting lines between steps on desktop.
+
+# 11. DENTAL CLINIC GALLERY
+
+Create a premium image gallery.
+
+Heading:
+
+"A Closer Look at Dentesthetics"
+
+Supporting text:
+
+"Explore the environment where your smile receives thoughtful care."
+
+Generate high-quality, realistic dental clinic photographs showing:
+
+- Modern dental treatment room.
+- Dentist examining a patient.
+- Dental chair and professional equipment.
+- Clean reception and waiting area.
+- Dental consultation.
+- Close-up dental treatment scene.
+
+Use a modern asymmetric masonry-inspired layout.
+
+Design requirements:
+- Rounded image corners.
+- Consistent spacing.
+- Soft shadows.
+- Subtle zoom effect on hover.
+- Lightbox interaction when images are clicked.
+
+All images should look like they belong to the same clinic and photographic style.
+
+# 12. PATIENT EXPERIENCE / TESTIMONIAL SECTION
+
+Create a premium testimonial section with a deep-purple or light-lavender background.
+
+Heading:
+
+"Care That Makes You Smile"
+
+Supporting paragraph:
+
+"Every visit should leave you feeling informed, comfortable, and confident."
+
+Create three elegant testimonial cards.
+
+Use realistic profile portraits only if generated.
+
+IMPORTANT:
+Do not invent real patient identities, verified reviews, exact star ratings, or fabricated customer quotations.
+
+Instead, build the testimonial layout using clearly identified sample content that can be replaced with verified patient feedback before publication.
+
+Use visually appealing quote marks, soft card shadows, and mint accent elements.
+
+# 13. APPOINTMENT BOOKING SECTION
+
+This is the primary conversion section.
+
+Make it visually prominent.
+
+Use a large deep-purple background with a subtle gradient.
+
+Left column:
+
+Heading:
+
+"Let's Take Care of Your Smile"
+
+Supporting text:
+
+"Ready for your next dental visit? Get in touch with Dentesthetics and request an appointment at a time that works for you."
+
+Add:
+- Clinic location.
+- Available opening hours.
+- Contact information area that can be configured.
+
+Right column:
+
+Create a beautiful white appointment form card.
+
+Form heading:
+
+"Book Your Appointment"
+
+Form fields:
+
+- Full Name
+- Phone Number
+- Email Address
+- Select Dental Service
+- Preferred Appointment Date
+- Preferred Appointment Time
+- Additional Message
+
+Service dropdown should include all listed dental services.
+
+Primary submit button:
+
+"Request Appointment"
+
+Use full-width mint-green styling.
+
+Form functionality:
+- Proper validation.
+- Required field validation.
+- Valid email and phone format checks.
+- Clear error messages.
+- Loading state.
+- Success confirmation.
+- Accessible input labels.
+- Mobile-friendly layout.
+
+Important implementation requirement:
+
+Build the booking form as a functional interface, not merely a visual mockup.
+
+If backend integration is available, connect the form to an appropriate booking or database service.
+
+If no backend is configured, implement a working frontend validation and success state, and provide a configurable integration point for WhatsApp, email, or a booking backend.
+
+Never falsely tell visitors that an appointment is confirmed when it has only been requested.
+
+Use a clear message such as:
+
+"Your appointment request has been received. Our team will contact you to confirm availability."
+
+Do not invent a phone number, email address, or WhatsApp contact.
+
+# 14. LOCATION AND CONTACT SECTION
+
+Create a clean contact section.
+
+Heading:
+
+"Visit Dentesthetics"
+
+Address:
+
+House 1206, Street 40, G-10/4, G-10, Islamabad, Pakistan.
+
+Opening Hours:
+
+Monday: 1:00 PM – 7:00 PM
+
+Tuesday: 1:00 PM – 7:00 PM
+
+Wednesday: 1:00 PM – 7:00 PM
+
+Thursday: 1:00 PM – 7:00 PM
+
+Friday: 1:00 PM – 7:00 PM
+
+Saturday: 1:00 PM – 7:00 PM
+
+Sunday: Closed
+
+Design:
+
+Two-column layout.
+
+Left:
+- Address information.
+- Opening hours.
+- Contact details when configured.
+- Mint-green "Get Directions" button.
+
+Right:
+- Embedded Google Maps location if an accurate location can be identified.
+- Otherwise, show a beautifully styled location card with a Google Maps directions link based on the provided address.
+- Do not fabricate coordinates or an exact map pin.
+
+Use a white or soft-lavender background.
+
+# 15. FAQ SECTION
+
+Create an elegant accordion-style FAQ section.
+
+Heading:
+
+"Frequently Asked Questions"
+
+Include these questions:
+
+1. How can I book an appointment at Dentesthetics?
+2. Where is Dentesthetics located?
+3. What are your clinic opening hours?
+4. What dental services are available?
+5. Should I schedule regular dental checkups?
+6. Do you provide cosmetic dental treatments?
+7. How can I contact the clinic?
+
+Use:
+- Smooth accordion animations.
+- Plus/minus icons.
+- Rounded containers.
+- Soft lavender borders.
+- Purple active states.
+
+Keep answers concise, informative, and medically responsible.
+
+Do not make unsupported claims about treatment outcomes or guarantees.
+
+# 16. FOOTER DESIGN
+
+Create a sophisticated deep-purple footer.
+
+Use four columns on desktop.
+
+**Column 1 — Brand**
+
+Dentesthetics logo.
+
+Short description:
+
+"Thoughtful dental care, personalized attention, and a healthier smile."
+
+Include social media icons only for platforms with configurable links.
+
+**Column 2 — Quick Links**
+
+- Home
+- About Us
+- Services
+- Our Approach
+- Contact
+
+**Column 3 — Dental Services**
+
+- General Dentistry
+- Cosmetic Dentistry
+- Teeth Whitening
+- Orthodontics
+- Dental Implants
+
+**Column 4 — Contact Information**
+
+Address:
+House 1206, Street 40, G-10/4, Islamabad, Pakistan.
+
+Opening Hours:
+Monday–Saturday: 1 PM–7 PM.
+
+Sunday: Closed.
+
+Add a mint-green "Book Appointment" CTA.
+
+Footer bottom:
+- Copyright year generated dynamically.
+- "Dentesthetics. All rights reserved."
+- Privacy Policy.
+- Terms and Conditions.
+
+Use subtle separator lines and balanced spacing.
+
+# 17. IMAGE GENERATION REQUIREMENTS
+
+Automatically generate all required images wherever image-generation capabilities are available.
+
+Do not leave blank image containers.
+
+Do not use:
+- Broken image URLs.
+- Empty image placeholders.
+- Gray placeholder rectangles.
+- Random unrelated stock photographs.
+- Low-quality images.
+- Cartoon dental graphics.
+
+Generate a consistent collection of high-resolution, realistic dental photographs.
+
+Required image assets:
+
+1. Main hero dental treatment photograph.
+2. Professional dentist portrait.
+3. Dental X-ray or diagnostic environment.
+4. Teeth examination close-up.
+5. Modern dental clinic interior.
+6. Dental consultation photograph.
+7. Professional dental treatment room.
+8. Dental services imagery.
+9. Gallery photographs.
+10. Testimonial sample profile imagery where needed.
+
+Visual photography direction:
+
+- Premium healthcare advertising photography.
+- Natural skin texture.
+- Authentic human expressions.
+- Realistic clinical equipment.
+- Soft daylight.
+- Clean and hygienic surroundings.
+- Modern professional environment.
+- Natural composition.
+- High detail.
+- Consistent color grading.
+
+Use a combination of horizontal, square, and vertical images according to the section layout.
+
+Optimize images for fast loading and use responsive image sizes.
+
+If automatic image generation is unavailable, use suitable real image assets from a permitted image source. Never leave empty image boxes.
+
+# 18. ANIMATIONS AND MICRO-INTERACTIONS
+
+Add sophisticated, subtle animations.
+
+**Page Loading**
+- Smooth initial page appearance.
+- Gentle fade-in.
+
+**Hero**
+- Text fade-up.
+- Image gentle scale-in.
+- Floating badge subtle movement.
+- Floating information card entrance animation.
+
+**Scroll Animations**
+- Reveal sections as they enter the viewport.
+- Fade-up cards.
+- Staggered service card appearance.
+- Subtle image movement.
+
+**Hover Effects**
+- Buttons shift slightly upward.
+- Mint buttons receive a subtle brightness change.
+- Service cards lift approximately 4–6px.
+- Images gently zoom.
+- Icons move slightly toward their arrows.
+
+**Navigation**
+- Smooth scrolling.
+- Animated mobile menu.
+- Underline or color transitions.
+
+**FAQ**
+- Smooth accordion expansion.
+
+**Appointment Form**
+- Clear focus states.
+- Smooth validation feedback.
+- Animated submission feedback.
+
+Keep animations lightweight and performant.
+
+Use CSS transitions, CSS keyframes, and Intersection Observer where appropriate.
+
+Respect the user's prefers-reduced-motion setting.
+
+Avoid excessive parallax or animations that interfere with usability.
+
+# 19. FULLY RESPONSIVE DESIGN
+
+The entire website must be fully responsive.
+
+**Desktop: 1440px and above**
+
+- Spacious two-column hero.
+- Large premium typography.
+- Four-column service grid where appropriate.
+- Full desktop navigation.
+- Large asymmetric image compositions.
+- Multi-column footer.
+
+**Laptop: 1024px–1439px**
+
+- Adjust content widths.
+- Reduce typography slightly.
+- Maintain two-column layouts when practical.
+- Prevent image and text overlap.
+
+**Tablet: 768px–1023px**
+
+- Two-column or carefully stacked layouts.
+- Two service cards per row.
+- Reduced section padding.
+- Responsive navigation.
+- Adjust floating cards to prevent collisions.
+
+**Mobile: 320px–767px**
+
+- Single-column layout.
+- Compact mobile header.
+- Hamburger navigation.
+- Hero heading approximately 36–44px depending on viewport.
+- Full-width primary CTA.
+- Image below hero text.
+- Floating image cards repositioned safely.
+- Single-column service cards.
+- Vertical process timeline.
+- Stacked appointment form.
+- Easy-to-read opening hours.
+- Full-width contact CTA.
+- Stacked footer columns.
+
+Critical mobile requirements:
+
+- No horizontal scrolling.
+- No clipped text.
+- No overlapping elements.
+- No oversized images.
+- No broken grids.
+- No tiny buttons.
+- Minimum comfortable touch target around 44px.
+- Proper spacing around all interactive elements.
+
+Test the website at 320px, 375px, 430px, 768px, 1024px, 1280px, and 1440px widths.
+
+# 20. CONVERSION OPTIMIZATION
+
+The website's primary purpose is to generate dental appointment requests.
+
+Implement conversion-focused design throughout.
+
+Include:
+
+- Visible booking CTA in navigation.
+- Prominent hero appointment button.
+- Booking CTA after services.
+- Booking CTA in the about section.
+- Appointment form section.
+- Mobile-friendly contact action.
+- Clear address and opening hours.
+- Easy-to-understand service descriptions.
+- Trust-building information.
+- Clear navigation.
+- Consistent CTA styling.
+
+Use conversion-oriented copywriting without exaggerating medical claims.
+
+The user should always understand what to do next.
+
+# 21. TECHNICAL DEVELOPMENT REQUIREMENTS
+
+Build the website using a clean, modern, maintainable frontend architecture.
+
+Preferred stack:
+
+- React.
+- TypeScript.
+- Tailwind CSS.
+- Modern component-based architecture.
+- Lucide icons.
+- CSS animations or Framer Motion if available.
+
+Use reusable components for:
+
+- Header.
+- Mobile navigation.
+- Hero.
+- Trust section.
+- Service cards.
+- Benefits.
+- Process timeline.
+- Gallery.
+- Testimonials.
+- Appointment form.
+- Contact information.
+- FAQ.
+- Footer.
+
+Development requirements:
+
+1. Write clean and maintainable code.
+2. Use semantic HTML.
+3. Ensure accessible navigation.
+4. Add proper ARIA attributes where necessary.
+5. Use optimized responsive images.
+6. Implement working navigation links.
+7. Implement functioning accordions.
+8. Implement appointment form validation.
+9. Add meaningful page metadata.
+10. Optimize Core Web Vitals.
+11. Avoid unnecessary dependencies.
+12. Avoid console errors.
+13. Ensure all buttons perform their intended actions.
+14. Ensure there are no broken links.
+15. Ensure all sections work on mobile.
+16. Add a custom favicon matching the Dentesthetics identity.
+17. Add a professional 404 page if routing is implemented.
+
+# 22. SEO AND LOCAL SEARCH OPTIMIZATION
+
+Optimize the website for local dental searches in Islamabad.
+
+Suggested SEO title:
+
+"Dentesthetics | Dental Clinic in Islamabad"
+
+Suggested meta description:
+
+"Discover patient-focused dental care at Dentesthetics in G-10/4, Islamabad. Explore dental services and request your appointment."
+
+Include naturally relevant keywords:
+
+- Dentist in Islamabad.
+- Dental clinic in Islamabad.
+- Dentist in G-10 Islamabad.
+- Dental services Islamabad.
+- Cosmetic dentistry Islamabad.
+- Teeth whitening Islamabad.
+- Dental checkup Islamabad.
+
+Implement:
+
+- Appropriate heading hierarchy.
+- Descriptive image alt text.
+- Open Graph metadata.
+- LocalBusiness or Dentist structured data where supported.
+- Accurate business address.
+- Opening hours.
+- Canonical URL configuration.
+- Search-engine-friendly URLs if multiple pages are created.
+
+Do not invent a phone number, email, medical credentials, or other missing business information.
+
+# 23. FINAL DESIGN QUALITY REQUIREMENTS
+
+The finished website must feel like a premium custom-designed dental clinic website.
+
+Pay particular attention to:
+
+- Exact alignment.
+- Consistent spacing.
+- Beautiful visual hierarchy.
+- Professional image selection.
+- Excellent typography.
+- Elegant purple and mint color balance.
+- Sophisticated cards.
+- Carefully positioned floating elements.
+- Consistent border radius.
+- Clean section transitions.
+- Premium-looking buttons.
+- Balanced white space.
+- Responsive compositions.
+
+The first viewport must be especially impressive because it creates the first impression.
+
+Every section should feel like part of one coherent visual identity.
+
+Do not generate a basic template and stop.
+
+Do not omit sections.
+
+Do not use generic filler text.
+
+Do not display fake business statistics or fake patient reviews.
+
+Do not leave unfinished UI elements.
+
+Do not use placeholder images.
+
+Do not create nonfunctional buttons.
+
+Do not sacrifice mobile design quality for desktop appearance.
+
+# 24. FINAL EXECUTION INSTRUCTION
+
+Now build the complete Dentesthetics website.
+
+First establish the visual identity and component system. Then implement every section, generate the required imagery, integrate the interactions, and refine the responsive layouts.
+
+Make thoughtful design decisions independently wherever details are not specified.
+
+Use the uploaded reference image as visual inspiration throughout the development process.
+
+Prioritize a stunning desktop experience while ensuring the mobile experience is equally polished.
+
+The final output must be a complete, functioning, visually sophisticated, appointment-focused dental clinic website that Dentesthetics could confidently present to real patients in Islamabad.
+
+**FINAL STANDARD: Premium agency-level design, professional healthcare branding, realistic dental photography, excellent UX, fully responsive implementation, functional appointment-request experience, and client-ready presentation.**
+
+Build the actual website, not a design description or a static mockup.

@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --color-purple-primary: #38218C;
+  --color-purple-deep: #29166F;
+  --color-purple-secondary: #4A3099;
+  --color-mint-main: #69E9B6;
+  --color-mint-bright: #74F0BD;
+  --color-lavender-light: #F0F0FC;
+  --color-lavender-soft: #FAF9FF;
+  --color-text-primary: #24185F;
+  --color-text-secondary: #77758D;
+  --color-border-soft: #E7E4F4;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: #24185F;
+  background-color: #FAF9FF;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display);
+}
+
+/* Custom smooth transitions */
+.transition-smooth {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Subtle glass effect */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Hero badge rotation subtle animation */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 28s linear infinite;
+}
